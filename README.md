@@ -31,9 +31,6 @@
   <img src="https://streak-stats.demolab.com/?user=rupesh1787&theme=cobalt&hide_border=true&cache_seconds=86400" alt="rupesh1787's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupesh1787&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rupesh Katariya's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rupesh1787&theme=cobalt&radius=10" alt="rupesh1787's Activity Graph" />
 </p>
 
@@ -49,15 +46,8 @@
 > ## Database
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /></p>
-
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh1787&layout=compact&theme=cobalt&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/rupeshh1/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:rupeshakatariya1787@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://portfolio-canvas-psi.vercel.app/#writing" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
@@ -76,19 +66,3 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
-
-
-<!--
-**rupesh1787/rupesh1787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
