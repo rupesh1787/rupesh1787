@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 - 👋 Aspiring Software Engineer
-- 🎓 Data Science Undergraduate @ RBU (CGPA:8.46)
+- 🎓 Data Science Undergraduate @ RCOEM (CGPA:8.46)
 - 🧠 Interested in UI/UX, Product Thinking & AI
 - 📚 Learning Java (DSA) & AWS Cloud
 - ⚙️ Building toward Full-Stack & Scalable Systems
