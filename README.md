@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 - 👋 Aspiring Software Engineer
-- 🎓 Data Science Undergraduate @ RBU
+- 🎓 Data Science Undergraduate @ RBU (CGPA:8.46)
 - 🧠 Interested in UI/UX, Product Thinking & AI
 - 📚 Learning Java (DSA) & AWS Cloud
 - ⚙️ Building toward Full-Stack & Scalable Systems
@@ -27,11 +27,10 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupesh1787&show_icons=true&theme=cobalt&hide_border=true&count_private=true&cache_seconds=86400" alt="rupesh1787's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=rupesh1787&theme=cobalt&hide_border=true&cache_seconds=86400" alt="rupesh1787's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rupesh1787&theme=prussian&hide_border=true&cache_seconds=86400" alt="rupesh1787's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rupesh1787&theme=cobalt&radius=10" alt="rupesh1787's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rupesh1787&theme=prussian&radius=10" alt="rupesh1787's Activity Graph" />
 </p>
 
 
@@ -47,13 +46,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/rupeshh1/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:rupeshakatariya1787@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://portfolio-canvas-psi.vercel.app/#writing" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/rupeshh1/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:rupeshkatariya1787@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 ## 💬 Quote
 > The only time we truly fail is when we decide to give up.
+
 
 
 <picture>
