@@ -23,7 +23,7 @@ Data Structures & Algorithms • OOP • DBMS • Operating Systems
 
 ### 🌐 Web & Backend
 HTML • CSS • JavaScript  
-REST APIs *(currently learning)*  
+REST APIs (currently learning)
 
 ### ☁️ Tools & Cloud
 Git • GitHub • Linux (Basics)  
