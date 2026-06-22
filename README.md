@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd-Year Data Science Undergraduate @ RCOEM (CGPA: 8.46)
+- 🎓 3rd-Year Data Science Undergraduate @ RCOEM (CGPA: 8.52)
 - 💻 Strong in **Java, Data Structures & Algorithms**
 - ☁️ Exploring **AWS & Backend Development**
 - 🎯 Focused on building **real-world, scalable software solutions**
